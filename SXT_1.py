@@ -1,6 +1,5 @@
 import requests
 # import ssl
-from urllib.parse import urlencode
 # ssl._create_default_https_context = ssl._create_unverified_context
 url = 'https://www.sxt.cn/index/login/login.html'
 headers = {
