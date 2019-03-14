@@ -2,9 +2,449 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee99d709-6cb1-4659-96c2-2f9b7934e906" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Crawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1414.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1415.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1510.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1511.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1513.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1518.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1519.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1610.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1611.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1612.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1615.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1616.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1617.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1619.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1710.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1712.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1714.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1715.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1716.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1718.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1719.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1810.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1811.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1812.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1813.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1815.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1817.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1818.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1910.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1911.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1912.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1913.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1914.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1916.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1917.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1918.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic1919.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic195.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic2219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic414.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic415.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic510.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic511.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic513.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic518.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic519.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic610.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic611.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic612.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic615.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic616.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic617.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic619.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic710.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic712.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic714.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic715.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic716.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic718.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic719.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic810.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic811.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic812.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic813.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic815.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic817.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic818.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic910.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic911.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic912.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic913.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic914.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic916.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic917.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic918.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic919.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QiuBai/pic99.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +520,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/QiuBai_pic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -315,12 +755,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552341399327</updated>
       <workItem from="1552341400553" duration="5170000" />
-      <workItem from="1552421529902" duration="12164000" />
+      <workItem from="1552421529902" duration="12455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17334000" />
+    <option name="totallyTimeSpent" value="17625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,12 +775,12 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3477707" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3477707" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -527,8 +967,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/QiuBai_pic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
